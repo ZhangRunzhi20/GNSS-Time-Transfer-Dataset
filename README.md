@@ -1,6 +1,6 @@
 # GNSS-Time-Transfer-Dataset
 
-GNSS observation datasets from laboratories with continuously disciplined hydrogen masers, covering days of year (DOY) 32–45 and 63–90 in 2025.
+GNSS observation datasets used in research on PPP day-boundary discontinuities, collected using continuously disciplined hydrogen masers and covering days of year (DOY) 32–45 and 63–90 in 2025.
 
 ## Overview
 
