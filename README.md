@@ -1,6 +1,6 @@
 # GNSS-Time-Transfer-Dataset
 
-Dataset for GNSS-based precise time transfer research from several timing laboratories.
+GNSS observation datasets from laboratories with continuously disciplined hydrogen masers.
 
 ## Overview
 
